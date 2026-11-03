@@ -1,7 +1,7 @@
 # SAP-Info
 
 Transacciones:<br>
-<br>SU01 - creación y modificación de usuarios
+SU01 - creación y modificación de usuarios
 <br>PFCG - creación órdenes de transporte y detalle de roles
 <br>SE16 - visualización tablas SAP
 <br>SE01/SE10 - órdenes de transporte
@@ -45,8 +45,7 @@ ST22 - ver DUMPs
 <br>SOTR_EDIT - editor de OTR para textos con alias
 <br>SE61 - revisar, modificar textos usados en correos…
 
-<br>TABLAS DEL SE16:<br>
-
+<br>TABLAS DEL SE16:
 <br>AGR_DEFINE: para descripción e información de roles
 <br>AGR_TEXTS: para únicamente descripción
 <br>AGR_1251: para objetos no organizativos
@@ -76,7 +75,6 @@ ST22 - ver DUMPs
 <br>AGR_HIER -  ver los valores del Menú de varios roles
 <br>CDPOS - información del cambio real en una transacción
 <br>CDHDR - información del cambio sin detalle de una transacción
-
 <br><br>T001K para los WERKS del BUKRS
 <br>TKA02 para el KOKRS del BUKRS
 <br>CEPC_BUKRS para los PRCTR del BUKRS
